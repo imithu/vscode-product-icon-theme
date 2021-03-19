@@ -12,24 +12,8 @@ This is simple theme to change the product icon of vscode. It usage proposed api
 # Noticeable Changes?
 
 - Activity bar icons:
-  - Explorer
-  - Search
-  - Git
-  - Debug
-  - Extensions
-  - Account
-  - Settings
 - Status Bar
   - Code collapse/expand
-  - Folder expand/collapse icon
-  - cloud-upload
-  - git-branch
-  - error
-  - warning
-  - info
-  - check
-  - bell
-  - exclude
 
 ## How it looks?
 
